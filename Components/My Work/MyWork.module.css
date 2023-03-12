@@ -1,0 +1,30 @@
+.myWorkbox img{
+width: 100%;
+}
+.myWorkBlock {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin: 2rem;
+
+}
+.myWork {
+background-color: #f6f6f6;
+}
+.myWorkbox {
+
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+
+    margin: 4rem;
+}
+.titleBlock {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 2rem;
+}
+.myWork h2 {
+    font-size: 3.2rem;
+    padding: 4rem 6rem;
+    }

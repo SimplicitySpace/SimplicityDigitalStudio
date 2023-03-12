@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Labrada:ital,wght@0,400;0,600;0,700;0,800;0,900;1,600;1,700;1,800;1,900&display=swap');
+
+.hero {
+    font-size: 6vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    justify-content: center;
+    letter-spacing: 5px;
+    margin-top: 8rem auto;
+    font-family: 'Labrada', serif;
+    cursor: pointer;
+    background-color: #E4BB97;
+    height: 80vh;
+  
+
+}
+.heroBox {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.firstChild {
+    color: #B26C2E;
+    font-family: 'Gantari', sans-serif;
+}
+.secondChild  {
+margin-left: 42rem;
+    letter-spacing: 5px;
+    font-family: 'Gantari', sans-serif;
+
+
+}
+.secondChild  {
+    color: white;
+    text-shadow: 0px 0px 4px #E4BB97;
+}
+.thirdChild {
+    color: #B26C2E;
+    font-family: 'Gantari', sans-serif;
+}
+
+
+

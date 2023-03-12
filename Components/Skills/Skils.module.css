@@ -1,0 +1,93 @@
+.skillsSection {
+display: flex;
+justify-content: space-between;
+gap: 2rem;
+    padding: 8rem;
+    background-color: #E4BA96;
+    /* color: #422727e1; */
+    color: #3E2B1A;
+}
+.individualBox  {
+    border-top: 1px solid #3E2B1A;
+    border-bottom: 1px solid #3E2B1A;
+    border-left: 1px solid #3E2B1A;
+    border-right: 1px solid #3E2B1A;
+    padding: 4rem 5rem;
+    border-radius: 18px;
+
+
+}
+
+.individualBox1 {
+    border-top: 1px solid #3E2B1A;
+    border-bottom: 1px solid #3E2B1A;
+    border-left: 1px solid #3E2B1A;
+    border-right: 1px solid #3E2B1A;
+    padding: 4rem 5rem;
+    border-radius: 18px;
+}
+.individualBox1 h4, .individualBox h4 {
+    font-size: 2.4rem;
+   
+    font-family: 'Oswald', sans-serif;
+    font-weight: 800;
+}
+.individualBox1 p, .individualBox p {
+    font-size: 1.8rem;
+letter-spacing: .4px;
+    width: 64rem;
+    margin-top: 1.4rem;
+    font-family: 'Oswald', sans-serif;
+ 
+}
+
+.leftIndividualBox {
+  
+    border: 2px solid #3E2B1A;
+    padding: 8rem 6rem;
+}
+.leftIndividualBox h3 {
+    font-size: 2.2rem;
+}
+.rightBox {
+    display: flex;
+    flex-direction: column;
+   gap: 1.4rem; 
+}
+
+.leftBox {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-family: 'Oswald', sans-serif;
+    gap: 2rem;
+    border-radius: 4px;
+}
+.leftBoxFlex2, .leftBoxFlex1 {
+    align-self: flex-end;
+    border: 1.2px solid #3E2B1A;
+    padding: 8rem 6rem;
+    border-radius: 12px;
+    color: #3E2B1A;
+}
+.leftBoxFlex1 h3, .leftBoxFlex2 h3 {
+    font-size: 2.2rem;
+    text-transform: uppercase;
+}
+.btn {
+    border: 1px solid #3E2B1A;
+    background-color: #E4BA96;
+    color: #3E2B1A;
+
+    margin-top: 1.2rem;
+    padding: 1.2rem 3rem;
+    border-radius: 4px;
+}
+.btn:hover {
+
+
+    background-color: #3E2B1A;
+    color: #E4BA96;
+
+    border: none;
+}
